@@ -79,3 +79,15 @@ h3 {
 
     margin: 50px;
 }
+
+article {
+    padding: 5px;
+
+    background-color: var(--black);
+
+    border-radius: 5px;
+
+    color: var(--white);
+
+    margin-bottom: 10px;
+}
